@@ -12,12 +12,12 @@ The application uses YOLO object detection to count the number of cars on a stat
 The predictions for the price and number of cars are done by a Random Forest Classifier.
 
 
-1. Using Firebase for Authentication and Database Management.
+1. Firebase is used for Authentication of users and Database Management.
 
-2. Using YOLO object detection for Real Time Detection of cars:
+2. YOLOv3 is used for Real Time Detection of cars:
 [CarTrack Script](https://github.com/divyanshusharma1709/CarTrack/blob/master/YOLOCar.ipynb)
 
-3. Use Random Forest Classifier (Scikit-Learn) for prediction of future audience and price suggestions.
+3. A Random Forest Classifier (Scikit-Learn) is used for prediction of future audience and price suggestions.
 
 
 # Screenshots:
@@ -32,4 +32,4 @@ The predictions for the price and number of cars are done by a Random Forest Cla
 <img src="https://github.com/shivumgrover/EazyCharge/blob/master/screenshots/Firebase1.png" width="360" title="Suggested Price"> <img src="https://github.com/shivumgrover/EazyCharge/blob/master/screenshots/Firebase2.png" width="360" title="Suggested Price"> <img src="https://github.com/shivumgrover/EazyCharge/blob/master/screenshots/Firebase3.png" width="360" title="Suggested Price">
 
 ## **Contributors:** 
-Shivam Grover, Harshita Diddee, Divyanshu Sharma, Deepasha Birla, Shitiz Gupta, Nikhil Kalra
+Divyanshu Sharma, Shivam Grover, Harshita Diddee, Deepasha Birla, Shitiz Gupta, Nikhil Kalra
